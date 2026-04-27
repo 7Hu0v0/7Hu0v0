@@ -1,4 +1,4 @@
-# Hi there，欢迎来到 Jeff / Qirui Hu 的 GitHub 主页 👋
+# Hi there，欢迎来到 Qirui (Jeff) Hu 的 GitHub 主页 👋
 
 ## ✨ 关于我
 
