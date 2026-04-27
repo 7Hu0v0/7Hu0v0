@@ -20,4 +20,4 @@
 My Profile is my cat Xixi. Cut it out, I know she is cute.
 
 © 2026 Jeff / Qirui Hu  
-Built for AI Talent Mapping, technical recruiting, and long-term learning.
+just_do_things
