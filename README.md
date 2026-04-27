@@ -8,9 +8,13 @@
 
 我长期希望成为 **AI + HR / Talent Mapping 方向的战略型招聘专家**：既理解技术发展趋势，也理解组织建设、人才判断与长期关系经营。
 
+
 📍 深圳 Shenzhen 
+
 💼 腾讯 Tencent | AI Recruiting | Talent Mapping  
+
 📫 Email: qiruihu0330@outlook.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/qirui-hu-0a0697306/
 
 
