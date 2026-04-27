@@ -13,7 +13,7 @@
 
 💼 腾讯 Tencent | AI Recruiting | Talent Mapping  
 
-📫 Email: qiruihu0330@outlook.com  
+📫 Email: jeffersonhu@tencent.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/qirui-hu-0a0697306/
 
