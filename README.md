@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there，欢迎来到 Jeff / Qirui Hu 的 GitHub 主页 👋
 
-<!--
-**7Hu0v0/7Hu0v0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ 关于我
 
-Here are some ideas to get you started:
+我是 Jeff / Qirui Hu，目前在 **腾讯 Tencent** 从事 AI 技术招聘与高端人才引进工作，主要关注 **Post-training、Agent、Infra、与 AI-native 产品** 等方向。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的工作不只是“找候选人”，而是希望通过技术理解、组织洞察和长期人才关系经营。
+
+我长期希望成为 **AI + HR / Talent Mapping 方向的战略型招聘专家**：既理解技术发展趋势，也理解组织建设、人才判断与长期关系经营。
+
+📍 深圳 Shenzhen 
+💼 腾讯 Tencent | AI Recruiting | Talent Mapping  
+📫 Email: qiruihu0330@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/qirui-hu-0a0697306/
+
+
+© 2026 Jeff / Qirui Hu  
+Built for AI Talent Mapping, technical recruiting, and long-term learning.
