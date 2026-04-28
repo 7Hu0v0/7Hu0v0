@@ -17,6 +17,8 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/qirui-hu-0a0697306/
 
+🐦 X(formerly Twitter): https://x.com/HuaHula21017
+
 
 © 2026 Jeff / Qirui Hu  
 just_do_things
