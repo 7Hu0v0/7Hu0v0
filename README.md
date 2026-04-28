@@ -17,7 +17,6 @@
 
 🔗 LinkedIn: https://www.linkedin.com/in/qirui-hu-0a0697306/
 
-My Profile is my cat Xixi. Cut it out, I know she is cute.
 
 © 2026 Jeff / Qirui Hu  
 just_do_things
