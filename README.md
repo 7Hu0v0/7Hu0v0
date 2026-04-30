@@ -19,6 +19,8 @@
 
 🐦 X(formerly Twitter): https://x.com/HuaHula21017
 
+🧑‍🎓 Home Page：
+
 
 © 2026 Jeff / Qirui Hu  
 just_do_things
